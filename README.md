@@ -1,4 +1,4 @@
-# Orden
+<!-- # Orden
 
 A. Definir las rutas
 B. Definir los verbos de cada ruta
@@ -20,4 +20,4 @@ C. Crear los controladores
 ```
 
 D. Crear los servicios (validaciones)
-E. Crear las rutas     (Divididas por peticiones)
+E. Crear las rutas     (Divididas por peticiones) -->
