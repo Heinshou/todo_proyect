@@ -1,17 +1,17 @@
-<!-- # Orden
+# Orden
 
-A. Definir las rutas
-B. Definir los verbos de cada ruta
+1. Definir las rutas
+2. Definir los verbos de cada ruta
 
-B.1. /tasks
-B.1.1  - GET (obtener todas las tareas)
-B.1.2  - POST (crear tareas)
-B.2. /tasks/:id
-B.2.1  - GET (obtener tarea en especifico en especifico)
-B.2.2  - PUT (editar tarea)
-B.2.3  - DELETE (eliminar tarea)
+3.1. /tasks
+3.1.1  - GET (obtener todas las tareas)
+3.1.2  - POST (crear tareas)
+3.2. /tasks/:id
+3.2.1  - GET (obtener tarea en especifico en especifico)
+3.2.2  - PUT (editar tarea)
+3.2.3  - DELETE (eliminar tarea)
 
-C. Crear los controladores
+4. Crear los controladores
 ```javascript
     const getAllTasks = () => {
         return taskDB
@@ -19,5 +19,5 @@ C. Crear los controladores
     
 ```
 
-D. Crear los servicios (validaciones)
-E. Crear las rutas     (Divididas por peticiones) -->
+5. Crear los servicios (validaciones)
+6. Crear las rutas     (Divididas por peticiones)
